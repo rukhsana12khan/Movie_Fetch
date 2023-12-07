@@ -1,0 +1,14 @@
+
+#data{
+	border: solid 2px Black;
+	height:300px;
+	width: 400px;
+	background-color: lightpink;
+	margin-top: 10px;
+	margin-left:10px;
+}
+
+#input{
+	margin-top: 10px;
+	
+}
